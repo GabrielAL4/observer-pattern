@@ -6,7 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="observer-project-design-patterns" />
+        <module name="observer-pattern-project" />
       </profile>
     </annotationProcessing>
   </component>
