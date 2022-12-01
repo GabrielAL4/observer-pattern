@@ -17,5 +17,4 @@ public class Follower implements Subscriber {
         return "Follower{" + followerName + "}";
     }
 
-
 }
